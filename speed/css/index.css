@@ -1,0 +1,30 @@
+img {
+  width: 100px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.hands {
+  padding: 1rem 0;
+}
+
+.hands.cpu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.field {
+  padding: 3rem 0;
+}
+
+.img {
+  padding: 15px;
+}
+
+.player_filed {
+  border: 1px solid red;
+}
+/*# sourceMappingURL=index.css.map */
